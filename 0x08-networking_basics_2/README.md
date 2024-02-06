@@ -1,4 +1,6 @@
-*0x08. Networking basics #1*
+<h1 style="text-align:ceneter;"><b>0x08. Networking basics #1</b></h1>
+
+
 <h1>Learning Objectives</h1>
 <p>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</p>
 
